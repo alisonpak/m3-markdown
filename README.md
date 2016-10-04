@@ -76,4 +76,7 @@ Download [here](http://macdown.uranusjr.com/).
 
 # Favorite Quote
 ```
->On Wednesdays we wear pink (
+On Wednesdays we wear pink 
+
+Link: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=meangirls
+
